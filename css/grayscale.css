@@ -9,6 +9,10 @@
   padding: 1rem 1rem 1rem 1rem;
 }
 
+.flag {
+  margin-bottom: 0.225rem;
+}
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
