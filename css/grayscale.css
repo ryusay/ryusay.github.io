@@ -1,12 +1,7 @@
-/*!
- * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- */
 
- /* This gives a bit of buffer around the Wufoo form for aesthetics  */
+/* This gives a bit of buffer around the Wufoo form for aesthetics  */
 .form {
-  background-color: white;
+  background-color: #ffffff;
   padding: 1rem 1rem 1rem 1rem;
 }
 
@@ -14,6 +9,12 @@
 .flag {
   margin-bottom: 0.225rem;
 }
+
+/*!
+ * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
+ */
 
 #mainNav {
   min-height: 56px;
@@ -38,7 +39,6 @@
 }
 
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(white, 80%);
   outline: none;
   background-color: transparent;
 }
@@ -69,7 +69,7 @@
     color: rgba(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
-    color: white;
+    color: #ffffff;
   }
   #mainNav.navbar-shrink {
     background-color: #fff;
@@ -166,7 +166,7 @@
 
 .btn-primary:focus {
   background-color: #4f837f;
-  color: white;
+  color: #ffffff;
 }
 
 .btn-primary:active {
