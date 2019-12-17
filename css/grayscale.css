@@ -4,11 +4,13 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
+ /* This gives a bit of buffer around the Wufoo form for aesthetics  */
 .form {
   background-color: white;
   padding: 1rem 1rem 1rem 1rem;
 }
 
+/* This gives a little boost up to the flags so that apparently align with the text in the nav bar. */
 .flag {
   margin-bottom: 0.225rem;
 }
