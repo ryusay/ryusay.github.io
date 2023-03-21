@@ -2,10 +2,10 @@
 function copyright() {
     var today = new Date();
     var year = today.getFullYear();
-    if (year > 2019) {
-        document.write("2019 - ", year)
+    if (year > 2022) {
+        document.write("2022 - ", year)
     }
     else {
-        document.write("2019")
+        document.write("2022")
     }
 }
